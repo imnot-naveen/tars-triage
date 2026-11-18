@@ -1,0 +1,5 @@
+Starting PostgreSQL with Docker Compose
+PostgreSQL is healthy
+Running API integration tests
+Error: connect ECONNREFUSED 127.0.0.1:5432
+API integration tests exited with code 1
